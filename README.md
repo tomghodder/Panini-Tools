@@ -1,6 +1,6 @@
 # Panini Tools
 
-UE5 Editor Utility for using Pannini projection.
+UE5 Editor Utility for using Panini projection.
 [tomhodder.com/blog/panini-tools](https://tomhodder.com/blog/panini-tools)
 
 GUI wrapper for the following console commands:
